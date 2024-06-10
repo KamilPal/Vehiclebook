@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #000000;
+  color: #FF8000;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+
+}
+
+form p {
+  margin-bottom: 15px;
+  padding-right: 5px;
+  color: #FFFFFF; 
+}
+
+header {
+  background-color: #1a1a1a;
+  padding: 20px;
+  text-align: center;
+  color: #FF8000;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  color: #000000; 
+  font-weight: bold;
+}
+
+th, td {
+  border: 1px solid #FFFFFF; 
+  padding: 8px;
+  background-color: #FF8000;
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #FF8000;
+  color: #000000; 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 100%; 
+}
+
+li {
+  float: left;
+  width: 50%;
+}
+
+li a {
+  display: block;
+  color: #FF8000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #555;
+}
+section {
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+form {
+  text-align: left;
+}
+input[type="submit"] {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+.choose {
+  width: 100%;
+  margin: auto;
+}
+img{
+  width: 100%;
+}
+.filter-toggle {
+  display: none;
+}
+
+.filter-label {
+  background-color: black;
+  color: #FF8000;
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+}
+
+.filter-form {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.filter-toggle:checked + .filter-label + .filter-form {
+  max-height: 300px;
+}
+

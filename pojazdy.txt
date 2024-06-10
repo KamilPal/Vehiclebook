@@ -1,0 +1,53 @@
+Audi|A4|5|Czarny|2010|Przednie|Automatyczna|Benzyna|45000|80000
+Ford|Focus|3|Biały|2015|Przednie|Manualna|Diesel|60000|120000
+Mercedes-Benz|C200|4|Srebrny|2018|Przednie|Automatyczna|Benzyna|85000|60000
+Toyota|Corolla|12|Niebieski|2017|Przednie|Automatyczna|Hybryda|75000|90000
+Volkswagen|Golf|7|Czerwony|2019|Przednie|Automatyczna|Benzyna|90000|75000
+Renault|Clio|5|Szary|2016|Przednie|Manualna|Benzyna|50000|110000
+Nissan|Qashqai|2|Zielony|2020|Przednie|Automatyczna|Diesel|70000|80000
+BMW|X5|4|Granatowy|2017|4x4|Automatyczna|Diesel|120000|50000
+Hyundai|Tucson|3|Czarny|2018|4x4|Manualna|Benzyna|80000|70000
+Kia|Sportage|4|Biały|2019|4x4|Automatyczna|Diesel|95000|65000
+Lexus|RX350|5|Srebrny|2020|4x4|Automatyczna|Benzyna|110000|55000
+Mazda|CX-5|2|Czerwony|2016|4x4|Manualna|Diesel|70000|90000
+Subaru|Outback|5|Brązowy|2015|4x4|Automatyczna|Benzyna|90000|80000
+Jaguar|F-PACE|2|Fioletowy|2018|4x4|Automatyczna|Diesel|100000|75000
+Land Rover|Range Rover|5|Czarny|2019|4x4|Automatyczna|Benzyna|130000|45000
+Volvo|XC90|3|Biały|2017|4x4|Automatyczna|Diesel|110000|60000
+Peugeot|3008|2|Czerwony|2018|4x4|Manualna|Benzyna|85000|70000
+Citroen|C5 Aircross|1|Szary|2021|4x4|Automatyczna|Hybryda|120000|50000
+Opel|Grandland X|3|Zielony|2019|4x4|Automatyczna|Diesel|95000|65000
+Ford|Kuga|2|Czarny|2017|4x4|Manualna|Benzyna|80000|80000
+Audi|Q5|4|Biały|2016|4x4|Automatyczna|Diesel|100000|70000
+Mercedes-Benz|GLE|5|Srebrny|2018|4x4|Automatyczna|Benzyna|110000|60000
+Toyota|Rav4|6|Bordowy|2017|4x4|Automatyczna|Hybryda|90000|75000
+Volkswagen|Tiguan|2|Czarny|2020|4x4|Manualna|Benzyna|80000|80000
+Renault|Captur|1|Biały|2019|Przednie|Manualna|Benzyna|65000|90000
+Nissan|Juke|2|Czerwony|2018|Przednie|Automatyczna|Benzyna|75000|80000
+BMW|X1|3|Zielony|2017|Przednie|Automatyczna|Diesel|90000|70000
+Hyundai|Kona|2|Szary|2019|Przednie|Manualna|Benzyna|70000|90000
+Kia|Niro|4|Bordowy|2020|Przednie|Automatyczna|Hybryda|95000|65000
+Lexus|NX300|2|Srebrny|2018|Przednie|Automatyczna|Benzyna|85000|75000
+Mazda|CX-3|1|Biały|2019|Przednie|Manualna|Benzyna|65000|90000
+Subaru|XV|3|Czarny|2017|Przednie|Automatyczna|Benzyna|80000|80000
+Jaguar|E-PACE|2|Biały|2018|Przednie|Automatyczna|Diesel|100000|70000
+Land Rover|Discovery Sport|4|Srebrny|2020|Przednie|Automatyczna|Benzyna|110000|60000
+Volvo|XC40|1|Czerwony|2019|Przednie|Manualna|Benzyna|75000|85000
+Peugeot|2008|2|Szary|2021|Przednie|Automatyczna|Benzyna|90000|75000
+Citroen|C3 Aircross|3|Niebieski|2018|Przednie|Automatyczna|Diesel|95000|70000
+Opel|Crossland X|1|Czarny|2019|Przednie|Manualna|Benzyna|70000|90000
+Ford|Puma|2|Biały|2020|Przednie|Automatyczna|Benzyna|80000|80000
+Audi|Q3|3|Srebrny|2017|Przednie|Automatyczna|Diesel|100000|70000
+Mercedes-Benz|GLA|4|Czerwony|2018|Przednie|Automatyczna|Benzyna|110000|60000
+Toyota|C-HR|2|Szary|2019|Przednie|Manualna|Benzyna|75000|85000
+Volkswagen|T-Roc|3|Bordowy|2020|Przednie|Automatyczna|Benzyna|90000|75000
+Renault|Kadjar|2|Czarny|2019|Przednie|Automatyczna|Diesel|95000|70000
+Nissan|Kicks|1|Zielony|2018|Przednie|Manualna|Benzyna|70000|90000
+BMW|X2|2|Biały|2017|Przednie|Automatyczna|Diesel|80000|80000
+Hyundai|Venue|1|Czarny|2021|Przednie|Automatyczna|Benzyna|85000|75000
+Mazda|Rx-7|3|Fioletowy|1997|4x4|Manualna|Benzyna|1|1
+Toyota|Supra|3|Beżowy|1999|Tylne|Manualna|Benzyna|90000|2030
+Honda|Civic|2|Żółty|2000|Przednie|Manualna|Benzyna|32000|100000
+Mazda|Rx-7|2|Czarny|1997|Tylne|Manualna|Benzyna|67000|140000
+Ferrari|LaFerrari|1|Czerwony|2017|Tylne|Manualna|Benzyna|1000000|25000
+Ferrari|LaFerrari|1|Czarny|2018|Tylne|Manualna|Benzyna|1500000|5000
